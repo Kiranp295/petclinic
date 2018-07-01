@@ -2,6 +2,7 @@ target/*
 .settings/*
 .classpath
 .project
+.git
 .idea
 *.iml
 /target
